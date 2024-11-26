@@ -12,7 +12,6 @@
   <a href="mailto:annakovalenko0050.com">
     <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
- <img src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 </p>
 
 # 👩‍💻 About Me
