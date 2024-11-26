@@ -53,7 +53,7 @@ Hi! I'm Anna Kovalenko, a third-year Computing with Game Development student at 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yunnna005/yunnna005/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/Yunnna005/Yunnna005/blob/Yunnna005-output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
