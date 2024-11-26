@@ -1,3 +1,4 @@
+<p align=right><img src="https://komarev.com/ghpvc/?username=yunnna005&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra"/></p>
  <p align='center'>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:A770EF,100:fd9b9b&text=Welcome%20to%20My%20GitHub%20🪻&section=header&textBg=false&fontSize=45&fontColor=2c0d49&fontAlign=50&animation=twinkling" />
 </p>
@@ -11,10 +12,12 @@
   </a>
  <a href="https://www.therookies.co/u/yuna5196">
     <img src="https://img.shields.io/badge/The%20Rookies-DAA520.svg?style=for-the-badge&logo=star&logoColor=white" alt="The Rookies Badge"/>
-</a>
+ </a>
   <a href="mailto:annakovalenko0050.com">
     <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
+
 </p>
 
 # About Me 👩‍💻 
