@@ -48,5 +48,7 @@ jobs:
           target_branch: Yunnna005-output
           build_dir: dist
           commit_message: Update snake animations
+          create_branch: true # Optional if the branch doesn't exist
+
         env:
           GITHUB_TOKEN: ${{ secrets.MY_PERSONAL_ACCESS_TOKEN }}
