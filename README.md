@@ -14,7 +14,7 @@
   </a>
 </p>
 
-# 👩‍💻 About Me
+# About Me 👩‍💻 
 
 Hi! I'm Anna Kovalenko, a third-year Computing with Game Development student at MTU Kerry with a passion for coding and game development. I'm constantly exploring new technologies and enhancing my skills.
 <p>
@@ -23,7 +23,7 @@ Hi! I'm Anna Kovalenko, a third-year Computing with Game Development student at 
   <img src="https://flagpedia.net/data/flags/h80/us.png" width="40" alt="English" /> English    
 </p>
 
-# 🚀 My Skills
+# My Skills 🚀
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
@@ -40,7 +40,7 @@ Hi! I'm Anna Kovalenko, a third-year Computing with Game Development student at 
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D4.svg?style=for-the-badge&logo=azuredevops&logoColor=white"/>
 </p>
 
-# GitHub Stats:
+# Stats ✨
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -50,12 +50,9 @@ Hi! I'm Anna Kovalenko, a third-year Computing with Game Development student at 
   <img src="https://github-readme-stats.vercel.app/api?username=yunnna005&rank_icon=github&theme=dracula" width="490"/>
 </div>
 
+# My Contributions 🌿
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://github.com/Yunnna005/Yunnna005/blob/Yunnna005-output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
 </div>
 
 
