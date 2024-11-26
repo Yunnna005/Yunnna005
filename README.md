@@ -9,6 +9,9 @@
   <a href="https://yunnna005.github.io/AnnaKovalenko.github.io/">
     <img src="https://img.shields.io/badge/Website-FF69B4.svg?style=for-the-badge&logo=heart&logoColor=white"/>
   </a>
+ <a href="https://www.therookies.co/u/yuna5196">
+    <img src="https://img.shields.io/badge/The%20Rookies-DAA520.svg?style=for-the-badge&logo=star&logoColor=white" alt="The Rookies Badge"/>
+</a>
   <a href="mailto:annakovalenko0050.com">
     <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
