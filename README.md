@@ -43,10 +43,10 @@ Hi! I'm Anna Kovalenko, a third-year Computing with Game Development student at 
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunnna005&layout=donut&theme=dracula" width="417" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunnna005&layout=donut&theme=dracula" width="317" />
   </a>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=yunnna005&rank_icon=github&theme=dracula" width="590"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yunnna005&rank_icon=github&theme=dracula" width="490"/>
 </div>
 
 
