@@ -49,7 +49,7 @@ Hi! I'm Anna Kovalenko, a third-year Computing with Game Development student at 
   <img src="https://github-readme-stats.vercel.app/api?username=yunnna005&rank_icon=github&theme=dracula" width="490"/>
 </div>
 
-
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 
  <p align='center'>
