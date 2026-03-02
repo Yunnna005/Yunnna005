@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/anna-kovalenko-386651253/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://yunnna005.github.io/AnnaKovalenko.github.io/">
+  <a href="https://yunnna005.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Website-FF69B4.svg?style=for-the-badge&logo=heart&logoColor=white"/>
   </a>
  <a href="https://www.therookies.co/u/yuna5196">
